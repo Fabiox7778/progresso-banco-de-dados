@@ -23,4 +23,4 @@ VALUE
 ('AC/DC', 'Banda', 5, 'Rock', 1973, 'Austrália', 'Back in Black', TRUE),
 ('Adele', 'Solo', 1, 'Pop', 2006, 'Reino Unido', 'Hello', TRUE),
 ('Coldplay', 'Banda', 4, 'Pop Rock', 1996, 'Reino Unido', 'Viva la Vida', TRUE),
-('Rihanna', 'Solo', 1, 'Pop', 2005, 'Barbados', 'Umbrella', TRUE)
+('Rihanna', 'Solo', 1, 'Pop', 2005, 'Barbados', 'Umbrella', TRUE);
