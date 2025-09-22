@@ -11,6 +11,4 @@ SELECT nome, genero_musical FROM artistas WHERE id = 7;
 SELECT nome, genero_musical FROM artistas WHERE id = 7 AND id = 10;
 
 
-
-
 SELECT COUNT(*) AS total_usuarios FROM usuarios;
