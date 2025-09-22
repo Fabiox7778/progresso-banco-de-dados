@@ -13,4 +13,3 @@ WHERE pontos < 2000;
 
 SELECT * FROM usuarios;
 
-
