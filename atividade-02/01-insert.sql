@@ -1,4 +1,6 @@
-CREATE DATABASE beautytechdb;
+-- \c cls; para apagar
+
+CREATE DATABASE beauty_tech_db;
 
 CREATE TABLE produtos (
     id SERIAL PRIMARY KEY,
